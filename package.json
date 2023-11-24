@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "api-ecommerce",
   "main": "backend/server.js",
+  "proxy": "https://tame-yoke-moth.cyclic.app",
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
